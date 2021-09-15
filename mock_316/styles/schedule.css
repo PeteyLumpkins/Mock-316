@@ -1,0 +1,24 @@
+.schedule {
+    width: 100%;
+    border: 1px solid black;
+    background-color: white;
+    
+    border-collapse: collapse;
+    margin-top: 2%;
+}
+
+.day {
+    text-align: left;
+    vertical-align: top;
+    width: 20vw;
+    border: 1px solid black;
+    height: 20vh;
+}
+
+.weekdays {
+    border: 1px solid black;
+}
+
+.weekday {
+    border: 1px solid black;
+}

@@ -1,0 +1,13 @@
+@import "./nav.css";
+@import "./home.css";
+@import "./footer.css";
+
+body {
+    background-color: gray;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+a:link {
+    text-decoration: none;
+}

@@ -1,0 +1,56 @@
+{
+    "navbar" : [
+        { "name" : "Home", "link" : "./index.html" },
+        { "name" : "Syllabus", "link" : "./syllabus.html" },
+        { "name" : "Schedule", "link" : "./schedule.html" }
+    ],
+    "home" : {
+        "heading" : "CSE-316 Fall 2021 Fundamentals of Software Development", 
+        "description" : "Welcome to the CSE 316 Web site. If you are enrolled in the course be sure to periodically check this site for all materials and changes as the semester moves along. Note that all grades will be posted to Blackboard."
+    },
+    "images" : [
+        { "link" : "./images/cse_logo.jpeg", "id" : "sbu_cse_logo" },
+        { "link" : "./images/seawolf_logo.png", "id" : "sbu_seawolf_logo" }
+    ],
+    "schedule" : {
+
+        "weeks" : [
+            [ 
+                {"month" : 8, "day" : 23, "number" : -1, "desc" : ""},
+                {"month" : 8, "day" : 24, "number" : 1, "desc" : "Introduction"},
+                {"month" : 8, "day" : 25, "number" : -1, "desc" : ""},
+                {"month" : 8, "day" : 26, "number" : 2, "desc" : "The World Wide Web"},
+                {"month" : 8, "day" : 27, "number" : -1, "desc" : ""}
+            ],
+            [
+                {"month" : 8, "day" : 30, "number" : -1, "desc" : ""},
+                {"month" : 8, "day" : 31, "number" : 3, "desc" : "JavaScript"},
+                {"month" : 9, "day" : 1, "number" : -1, "desc" : ""},
+                {"month" : 9, "day" : 2, "number" : 4, "desc" : "JavaScript (continued)"},
+                {"month" : 9, "day" : 3, "number" : -1, "desc" : ""}
+            ],
+            [
+                {"month" : 9, "day" : 6, "number" : -1, "desc" : "Labor Day"},
+                {"month" : 9, "day" : 7, "number" : 5, "desc" : "Transaction Processing"},
+                {"month" : 9, "day" : 8, "number" : -1, "desc" : ""},
+                {"month" : 9, "day" : 9, "number" : 6, "desc" : "Reactive Programming with React"},
+                {"month" : 9, "day" : 10, "number" : -1, "desc" : ""}
+            ],
+            [   
+                {"month" : 9, "day" : 13, "number" : -1, "desc" : ""},
+                {"month" : 9, "day" : 14, "number" : 7, "desc" : "Reactive State Management"},
+                {"month" : 9, "day" : 15, "number" : -1, "desc" : ""},
+                {"month" : 9, "day" : 16, "number" : 8, "desc" : "HTTP, Ajax, and Express"},
+                {"month" : 9, "day" : 17, "number" : -1, "desc" : "HW 1 DUE @ 11:59pm"}
+            ], 
+            [
+                {"month" : 9, "day" : 20, "number" : -1, "desc" : ""},
+                {"month" : 9, "day" : 21, "number" : 9, "desc" : "Information Management"},
+                {"month" : 9, "day" : 22, "number" : -1, "desc" : ""},
+                {"month" : 9, "day" : 23, "number" : 10, "desc" : "Relational and NoSQL Databases"},
+                {"month" : 9, "day" : 24, "number" : -1, "desc" : ""}
+            ]
+        ]
+    
+    }
+}
